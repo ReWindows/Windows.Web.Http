@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "Windows.Web.Http.dll",
+  "latest": "1815386077-135F0B5020415E903FA3C602AEFF3092-1",
+  "builds": [
+    {
+      "key": "1815386077-135F0B5020415E903FA3C602AEFF3092-1",
+      "timestamp": "1815386077",
+      "pdb_guid": "135F0B5020415E903FA3C602AEFF3092",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/1815386077-135F0B5020415E903FA3C602AEFF3092-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
